@@ -4,10 +4,11 @@
 
 Страница «Обзор»
 
-
+<img width="1963" height="1101" alt="image" src="https://github.com/user-attachments/assets/41738360-b4d3-4150-bb5e-c816e310c3aa" />
 
 Страница «Детали»
 
+<img width="1954" height="1087" alt="image" src="https://github.com/user-attachments/assets/cc879fc2-8485-4cc7-a7a0-d028a0a7f98b" />
 
 ## Что внутри
 - **2 страницы отчёта:** «Обзор» (KPI и тренды) и «Детали» (сегменты,
