@@ -10,6 +10,10 @@
 
 <img width="1954" height="1087" alt="image" src="https://github.com/user-attachments/assets/cc879fc2-8485-4cc7-a7a0-d028a0a7f98b" />
 
+Звёздная схема
+
+<img width="1271" height="874" alt="image" src="https://github.com/user-attachments/assets/7a7aef8f-bf5f-4ba3-a668-24252f6406ac" />
+
 ## Что внутри
 - **2 страницы отчёта:** «Обзор» (KPI и тренды) и «Детали» (сегменты,
   топ-товары, таблица-разбивка).
